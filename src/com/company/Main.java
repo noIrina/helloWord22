@@ -6,5 +6,6 @@ public class Main {
 	System.out.println("Hello Word!");
     System.out.println("Line");
         System.out.println("изменения");
+        System.out.println("new");
     }
 }
